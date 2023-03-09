@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkfirstpwa"]=globalThis["webpackChunkfirstpwa"]||[]).push([[632],{632:(a,n,t)=>{t.r(n),t.d(n,{default:()=>o});var i=t(3673);function s(a,n,t,s,e,r){return(0,i.wg)(),(0,i.iD)("div",null," My PWA application ")}const e=(0,i.aZ)({name:"MainLayout",components:{},setup(){}});var r=t(4260);const u=(0,r.Z)(e,[["render",s]]),o=u}}]);
